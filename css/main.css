@@ -27,6 +27,7 @@ h1 {
 
 .content {
   border: 1px solid green;
+  padding: 0 10px 10px 10px;
 }
 
 #p1 {
