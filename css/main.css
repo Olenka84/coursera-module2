@@ -8,7 +8,7 @@ h1 {
 }
 
 .row > div {
-  background-color: grey;
+  background-color: pink;
   margin: 10px ;
 }
 
@@ -17,7 +17,7 @@ h1 {
   float: right;
   width: 20%;
   height: 30px;
-  margin-right: 0;
+  margin-right: -10px;
   margin-left: auto;
   margin-top: 0;
   font-family: Helvetica;
@@ -31,7 +31,7 @@ h1 {
 }
 
 #p1 {
-  background-color: green;
+  background-color: turquoise;
 }
 
 #p2 {
